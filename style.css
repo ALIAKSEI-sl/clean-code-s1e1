@@ -155,7 +155,7 @@
 }
 
 /* Completed */
-#completed-tasks .menu__item_label {
+#tasks__completed .menu__item_label {
   text-decoration: line-through;
   color: #888;
 }
